@@ -91,8 +91,9 @@ npm test
 
 ## 🔁 Challenge Problems (Same in Both Languages)
 
-1. **Recursion**: Write a function that returns the nth Fibonacci number
-2. **Sorting**: Implement your own version of **bubble sort**
+1. **Recursion - Sum of Digits**: Write a recursive function that takes a non-negative integer n and returns the sum of its digits. Do not use loops. Input will always be a non-negative integer.
+
+2. **Sorting - Insertion Sort**: Write a function that sorts an array of numbers in ascending order using the in-place insertion sort algorithm.
 
 ---
 
